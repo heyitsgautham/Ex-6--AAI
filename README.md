@@ -18,7 +18,7 @@ Step 5:Iterate through each word in the tokenized text.<br>
 •	Print the unique sets of synonyms and antonyms.
 <H3>Program:</H3>
 
-```
+```PY
 
 import nltk
 #import wordnet
